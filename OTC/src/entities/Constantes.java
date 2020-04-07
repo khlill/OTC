@@ -19,7 +19,7 @@ public class Constantes {
 		listeEtds.add("user1");
 		listeEtds.add("user 2");
 		listeEtds.add("Kouka Ibtihel");		
-
+                listeEtds.add("Essouaid Khalil");
 	}
 
 	public List<String> getListeEtds() {
